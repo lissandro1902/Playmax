@@ -1,0 +1,8 @@
+{
+  "name": "Playmax Repository",
+  "description": "Extensión para PlayHubMax / Playmax",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/lissandro1902/Playmax/builds/plugins.json"
+  ]
+}
